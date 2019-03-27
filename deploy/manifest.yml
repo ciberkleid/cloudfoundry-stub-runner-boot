@@ -1,0 +1,7 @@
+---
+applications:
+- name: stubrunner
+  services:
+    - service-discovery 
+  env:
+    DEBUG: "true"

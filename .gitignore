@@ -19,3 +19,6 @@ _site/
 /spring-cloud-sleuth-core/nb-configuration.xml
 /spring-cloud-sleuth-core/nbactions.xml
 .mvn
+
+#Exceptions
+!/deploy/*

@@ -2,6 +2,6 @@
 applications:
 - name: stubrunner
   services:
-    - service-discovery 
+    - service-registry 
   env:
     DEBUG: "true"
